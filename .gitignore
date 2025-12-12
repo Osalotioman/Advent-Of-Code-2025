@@ -1,1 +1,10 @@
 .venv
+.vscode
+*.txt
+*i
+*input
+*p1
+*p2
+media
+*__pycache__
+*tests
